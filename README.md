@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rachit Gupta
+# 👋 Hi there, I'm Rachit Gupta 
 
 ## 🚀 About Me
 I'm a Full Stack Web Developer with a strong background in C/C++ and hands-on experience in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I also work with MySQL for relational database management. I'm passionate about clean code, RESTful APIs, and building efficient, user-friendly interfaces. I enjoy solving algorithmic problems and continuously expanding my skills in system design and backend architecture.
