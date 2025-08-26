@@ -6,6 +6,7 @@ I'm a Full Stack Web Developer with a strong background in C/C++ and hands-on ex
 ## 🛠️ Skills
 - 💻 Languages: C, C++
 - 🌐 Web: HTML, CSS, JavaScript, Node.js, Express.js, React.js
+- 🖥️ Desktop: Electron.js
 - 🗃️ Databases: MongoDB, MySQL
 - ⚙️ Tools: Git, GitHub, VS Code, Postman, MongoDB Compass
 
